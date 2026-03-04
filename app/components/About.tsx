@@ -8,7 +8,7 @@ export default function About() {
                             Driving the transition to <span className="text-yellow-500">Cleaner Energy</span>
                         </h2>
                         <p className="mt-4 text-lg text-gray-500 dark:text-gray-400">
-                            Founded in 2024, SolarTech is dedicated to making solar energy accessible, affordable, and easy for everyone. We believe in a future where every roof generates its own clean power.
+                            Founded in 2023, Versatile Solar is dedicated to making solar energy accessible, affordable, and easy for everyone. We believe in a future where every roof generates its own clean power.
                         </p>
 
                         <div className="mt-8 grid grid-cols-2 gap-8">

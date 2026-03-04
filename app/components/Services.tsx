@@ -47,7 +47,7 @@ export default function Services() {
                     />
                     <ServiceCard
                         title="Commercial Projects"
-                        description="Scale your energy savings. We design high-efficiency solar arrays for warehouses, offices, and large commercial facilities."
+                        description="Scale your energy savings. We design high-efficiency solar arrays for homes, offices, and large commercial facilities."
                         imageSrc="/service_commercial.png"
                     />
                     {/* Reusing residential for now as maintenance/other placeholder or I could have generated another one. 
