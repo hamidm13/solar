@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="font-bold text-2xl text-yellow-500 tracking-tighter">
-              SOLAR<span className="text-gray-900 dark:text-white">TECH</span>
+              Hammid<span className="text-gray-900 dark:text-white">TECH</span>
             </Link>
           </div>
           <div className="hidden md:block">
