@@ -36,7 +36,7 @@ export default function About() {
                         {/* Visual element or quote instead of another image to balance content */}
                         <div className="text-center">
                             <blockquote className="text-xl font-medium text-gray-900 dark:text-white italic">
-                                "SolarTech transformed our energy usage. The installation was seamless and the savings were immediate."
+                                "Versatile Solar transformed our energy usage. The installation was seamless and the savings were immediate."
                             </blockquote>
                             <div className="mt-4 font-bold text-yellow-500">
                                 - Sarah J., Homeowner
