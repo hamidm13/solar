@@ -11,6 +11,7 @@ export default function About() {
                             Founded in 2023, Versatile Solar is dedicated to making solar energy accessible, affordable, and easy for everyone. We believe in a future where every roof generates its own clean power.
                         </p>
 
+
                         <div className="mt-8 grid grid-cols-2 gap-8">
                             <div>
                                 <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white text-xl font-bold mb-4">
